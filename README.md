@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7665495.svg)](https://doi.org/10.5281/zenodo.7665495)
+
 # ObreusDroid
 ObreusDroid (Observers Resource Usage Android Tools) 2023
 
