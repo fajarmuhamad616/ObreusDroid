@@ -6,9 +6,10 @@ ObreusDroid (Observers Resource Usage Android Tools) 2023
 The goal of ObreusDroid tool is to discover resource usage CPU and Memory of An Analyzed Android app and saved to comma-separated values (CSV) file. 
 
 ObreusDroid is able execute automatically on Android app already installed in your phone:
-- ObreusDroid will discover resource usage of Android app with iteration a 1 second
-- Resource Usage will save every line
-- Data Resource Usage will saved to file CSV
+- Observer resource usage CPU and Memory on process android apps
+- Cancelled observer if package name false or wrong write
+- Result resource usage CPU and Memory will saved on CSV File
+- Result will observer resource usage of Android app with iteration a 1 second
 
 Hopefully this tools benefit for research on resource usage Android app during manual testing
 
