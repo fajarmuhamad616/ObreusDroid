@@ -21,7 +21,7 @@ Hopefully this tools benefit for research on resource usage Android app during m
 
 - - - -
 Paper Reference
-[1] Lee, J., Raja, A. V., & Gao, D. (2019). SplitSecond: Flexible Privilege Separation of Android Apps. 2019 17th International Conference on Privacy, Security and Trust (PST), 1–10. https://doi.org/10.1109/PST47121.2019.8949067
-[2] Ma, Z., & Bai, Y. (2018). A Distributed System Monitoring Tool with Virtual Reality. Proceedings of the 2nd International Conference on Computer Science and Application Engineering, 1–5. https://doi.org/10.1145/3207677.3277940
-[3] Saborido, R., Khomh, F., Antoniol, G., & Gueheneuc, Y.-G. (2017). Comprehension of Ads-Supported and Paid Android Applications: Are They Different? 2017 IEEE/ACM 25th International Conference on Program Comprehension (ICPC), 143–153. https://doi.org/10.1109/ICPC.2017.25
-[4] Wen, E., Cao, J., Shen, J., & Liu, X. (2018). Fraus: Launching Cost-efficient and Scalable Mobile Click Fraud Has Never Been So Easy. 2018 IEEE Conference on Communications and Network Security (CNS), 1–9. https://doi.org/10.1109/CNS.2018.8433126
+- Lee, J., Raja, A. V., & Gao, D. (2019). SplitSecond: Flexible Privilege Separation of Android Apps. 2019 17th International Conference on Privacy, Security and Trust (PST), 1–10. https://doi.org/10.1109/PST47121.2019.8949067
+- Ma, Z., & Bai, Y. (2018). A Distributed System Monitoring Tool with Virtual Reality. Proceedings of the 2nd International Conference on Computer Science and Application Engineering, 1–5. https://doi.org/10.1145/3207677.3277940
+- Saborido, R., Khomh, F., Antoniol, G., & Gueheneuc, Y.-G. (2017). Comprehension of Ads-Supported and Paid Android Applications: Are They Different? 2017 IEEE/ACM 25th International Conference on Program Comprehension (ICPC), 143–153. https://doi.org/10.1109/ICPC.2017.25
+- Wen, E., Cao, J., Shen, J., & Liu, X. (2018). Fraus: Launching Cost-efficient and Scalable Mobile Click Fraud Has Never Been So Easy. 2018 IEEE Conference on Communications and Network Security (CNS), 1–9. https://doi.org/10.1109/CNS.2018.8433126
