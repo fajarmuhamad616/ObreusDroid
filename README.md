@@ -1,5 +1,4 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7665495.svg)](https://doi.org/10.5281/zenodo.7665495)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffajarmuhamad616%2FObreusDroid.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffajarmuhamad616%2FObreusDroid?ref=badge_shield)
 
 # ObreusDroid
 ObreusDroid (Observers Resource Usage Android Tools) 2023
