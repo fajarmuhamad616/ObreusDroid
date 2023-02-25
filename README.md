@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7665495.svg)](https://doi.org/10.5281/zenodo.7665495)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffajarmuhamad616%2FObreusDroid.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffajarmuhamad616%2FObreusDroid?ref=badge_shield)
 
 # ObreusDroid
 ObreusDroid (Observers Resource Usage Android Tools) 2023
@@ -15,5 +16,6 @@ Hopefully this tools benefit for research on resource usage Android app during m
 
 - - - -
 <b>Important</b>. This tools created and already tested by me and that time in code have a `sleep .5`, that time means 1 second, but if you test on emulator Android that will <b>not 1 second</b> but means 0.5 second.
-
+- - - -
+## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffajarmuhamad616%2FObreusDroid.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffajarmuhamad616%2FObreusDroid?ref=badge_large)
